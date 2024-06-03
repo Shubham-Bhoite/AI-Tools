@@ -107,3 +107,8 @@ Free to use .
 Description : Interview warmup is a Google tool, which is used for to speak English and quick way to prepare your interview in smart way.
 <br>
 Free/Paid : Free
+
+## [TripNotes](https://topai.tools/t/tripnotes-ai) :
+- AI travel planning and itinerary management tool.
+- Personalized travel recommendation based on preferences.
+- It provides real-time updates and suggestion during travel.
